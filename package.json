@@ -1,0 +1,27 @@
+{
+  "name": "random-messages",
+  "version": "1.0.0",
+  "description": "random messages",
+  "main": "src/index.js",
+  "bin": {
+    "random-messages": "bin/global.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dani2305el/random-message.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "npm"
+  ],
+  "author": "alvaro <dual.alvaro.ku@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dani2305el/random-message/issues"
+  },
+  "homepage": "https://github.com/Dani2305el/random-message#readme"
+}
