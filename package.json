@@ -1,7 +1,7 @@
 {
-  "name": "random-messages",
+  "name": "rndmessage",
   "version": "1.0.0",
-  "description": "random messages",
+  "description": "rm",
   "main": "src/index.js",
   "bin": {
     "random-messages": "bin/global.js"
@@ -20,6 +20,7 @@
   ],
   "author": "alvaro <dual.alvaro.ku@gmail.com>",
   "license": "ISC",
+  "preferGlobal": true,
   "bugs": {
     "url": "https://github.com/Dani2305el/random-message/issues"
   },
